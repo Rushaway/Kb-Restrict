@@ -1,0 +1,263 @@
+"Phrases"
+{
+	"KB_Tag"
+	{
+		"en"	"[Kb-Restrict]"
+	}
+	"Online"
+	{
+		"en"	"Online"
+	}
+	"Offline"
+	{
+		"en"	"Offline"
+	}
+	"Console"
+	{
+		"en"	"Console"
+	}
+	"Admin"
+	{
+		"en" 	"Admin"
+	}
+	"Player"
+	{
+		"en" 	"Player"
+	}
+	"Unrestricted"
+	{
+		"en" 	"unrestricted"
+	}
+	"Restricted"
+	{
+		"en" 	"restricted"
+	}
+	"Restricted By"
+	{
+		"en" 	"Restricted by"
+	}
+	"Restricted Reason"
+	{
+		"en" 	"Restricted Reason"
+	}
+	"KbBan Duration"
+	{
+		"en" 	"Kb-Ban Duration"
+	}
+	"Temporary"
+	{
+		"en" 	"Temporary"
+	}
+	"Permanently"
+	{
+		"en" 	"Permanently"
+	}
+	"Expires"
+	{
+		"en" 	"Expires"
+	}
+	"On Map Change"
+	{
+		"en" 	"On Map Change"
+	}
+	"Never"
+	{
+		"en" 	"Never"
+	}
+	"Issued"
+	{
+		"en" 	"Issued"
+	}
+	"Reason"
+	{
+		"en" 	"Reason"
+	}
+	"No Reason"
+	{
+		"en" 	"No Reason"
+	}
+	"Map"
+	{
+		"en"	"Map"
+	}
+	"Status restricted"
+	{
+		"en" 	"You are currently restricted"
+	}
+	"Status unrestricted"
+	{
+		"en" 	"You are currently unrestricted"
+	}
+	"Not Restricted"
+	{
+		"en"	"Is not Restricted"
+	}
+	"Currently Kbban"
+	{
+		"en" 	"Currently kb-banned"
+	}
+	"No KbBans"
+	{
+		"en" 	"No Kb-Bans"
+	}
+	"Online KbBanned"
+	{
+		"en"	"Online Kb-Banned"
+	}
+	"Already KbBanned"
+	{
+		"en" 	"Already Kb-Banned"
+	}
+	"Already UnKbBanned"
+	{
+		"en" 	"Already Un-KbBanned"
+	}
+	"Player is not valid anymore"
+	{
+		"en" 	"Player is not valid anymore"
+	}
+	"KbRestrict Commands"
+	{
+		"en" 	"Kb-Restrict Commands"
+	}
+	"KbRestrict Commands Title"
+	{
+		"en" 	"[Kb-Restrict] Commands"
+	}
+	"KbBan a Player"
+	{
+		"en" 	"Kb-Restrict a Player"
+	}
+	"List of KbBan"
+	{
+		"en" 	"List of Kb-Restricted"
+	}
+	"Empty"
+	{
+		"en"	"Empty"
+	}
+	"Restrict Player"
+	{
+		"en" 	"Restrict player"
+	}
+	"UnRestrict Player"
+	{
+		"en" 	"UnRestrict player"
+	}
+	"Details"
+	{
+		"en" 	"Details"
+	}
+	"UnKbBan a Player"
+	{
+		"en" 	"Un-Kb-Ban a Player"
+	}
+	"Offline EBan"
+	{
+		"en" 	"Offine Kb-Ban"
+	}
+	"Offline Restricted"
+	{
+		"en" 	"Offline restricted"
+	}
+	"List of Disconnected Players"
+	{
+		"en" 	"List of Disconnected Players"
+	}
+	"Not have permission pKb-Ban"
+	{
+		"en" 	"You do not have permission to permanently Kb-Ban"
+	}
+	"Not have permission lKb-Ban"
+	{
+		"en" 	"You do not have permission to Kb-Ban longer. Maximum"
+	}
+	"Not have permission rKb-Ban"
+	{
+		"en" 	"You do not have permission to remove permanent Kb-Bans"
+	}
+	"Not have permission !Own rKb-Ban"
+	{
+		"en" 	"You do not have permission to remove others admins Kb-Bans"
+	}
+	"SteamID quotes"
+	{
+		"en"	"Please type the SteamID between quotes"
+	}
+	"ChatReason"
+	{
+		"en"	"Enter the reason as a chat message"
+	}
+	"Your Own"
+	{
+		"en" "Your Own"
+	}
+	"In"
+	{
+		"en"	"in"
+	}
+	"Duration"
+	{
+		"en" 	"Duration"
+	}
+	"Seconds"
+	{
+		"en"	"Seconds"
+	}
+	"Minutes"
+	{
+		"en" 	"Minutes"
+	}
+	"Hour"
+	{
+		"en" 	"Hour"
+	}
+	"Hours"
+	{
+		"en" 	"Hours"
+	}
+	"Day"
+	{
+		"en" 	"Day"
+	}
+	"Days"
+	{
+		"en" 	"Days"
+	}
+	"Week"
+	{
+		"en" 	"Week"
+	}
+	"Weeks"
+	{
+		"en" 	"Weeks"
+	}
+	"Month"
+	{
+		"en" 	"Month"
+	}
+	"Months"
+	{
+		"en" 	"Months"
+	}
+	"Boosting"
+	{
+		"en" 	"Boosting Zombies"
+	}
+	"TryingToBoost"
+	{
+		"en" 	"Trying To Boost Zombies"
+	}
+	"Trimming team"
+	{
+		"en" 	"Trimming team"
+	}
+	"Trolling on purpose"
+	{
+		"en" 	"Trolling on purpose"
+	}
+	"Custom Reason"
+	{
+		"en"	"Custom Reason"
+	}
+}
